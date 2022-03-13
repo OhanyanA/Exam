@@ -1,5 +1,5 @@
 
-import RegistrationPage from "../Registration1/RegistrationPage.spec"
+import RegistrationPage from "../Pages/RegistrationPage.spec"
 
 describe("Registration", () => {
     beforeEach(() => {
